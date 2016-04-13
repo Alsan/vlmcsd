@@ -1,0 +1,4 @@
+# ignore compiled output
+*.o
+vlmcsd
+vlmcs
